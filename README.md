@@ -1,19 +1,10 @@
 # 🚀 JobPilot — Multi-Agent AI Job Application Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-CUDA%20Accelerated-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-00599C?style=for-the-badge)](https://github.com/facebookresearch/faiss)
-[![Gradio](https://img.shields.io/badge/Gradio-Web%20UI-FF5500?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 > **JobPilot** is an end-to-end, multi-agent AI system powered by **Hugging Face LLMs**, **Sentence Transformers**, and a **FAISS RAG Vector Store**. It automates candidate resume analysis, job requirement extraction, similarity matching, cover letter writing, interview preparation, quality audit verification, and PDF report generation.
 
 ---
 
-## 📸 Preview
-
-![JobPilot Gradio Web Interface](assets/jobpilot-preview.png)
 
 ---
 
